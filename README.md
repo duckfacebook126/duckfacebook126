@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duckfacebook126
 - 👀 I’m interested in Coding in CPP And Web Development
-- 🌱 I’m currently studying Software Engineering
+- 🌱 I am a software engineering graduate
 - 💞️ I’m looking to collaborate on Not really Just here to learn
 - 📫 How to reach me duckfacebook126@gmail.com
 
